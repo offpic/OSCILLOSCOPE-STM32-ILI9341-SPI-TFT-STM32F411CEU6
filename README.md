@@ -1,4 +1,3 @@
-OSCILLOSCOPE-STM32-ILI9341
 
 https://www.youtube.com/watch?v=XcC9sK31j0k
 
